@@ -1,0 +1,5 @@
+name: DiscordReward
+version: 1.0
+main: net.sharpydev.basic.Main
+description: Plugin.
+author: SharpyDev
